@@ -12,4 +12,12 @@
     "dotenv": "^16.3.1",
     "googleapis": "^130.0.0"
   }
+  "dependencies": {
+  "express": "...",
+  "axios": "...",
+  "dotenv": "...",
+  "googleapis": "...",
+  "node-telegram-bot-api": "...",
+  "moment": "^2.30.0"
+}
 }
